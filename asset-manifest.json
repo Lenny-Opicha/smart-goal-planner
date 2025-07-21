@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/smart-goal-planner/static/css/main.ec32c3ff.css",
+    "main.js": "/smart-goal-planner/static/js/main.173741b4.js",
+    "index.html": "/smart-goal-planner/index.html",
+    "main.ec32c3ff.css.map": "/smart-goal-planner/static/css/main.ec32c3ff.css.map",
+    "main.173741b4.js.map": "/smart-goal-planner/static/js/main.173741b4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec32c3ff.css",
+    "static/js/main.173741b4.js"
+  ]
+}
