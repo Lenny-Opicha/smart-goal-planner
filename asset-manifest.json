@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/smart-goal-planner/static/css/main.ec32c3ff.css",
-    "main.js": "/smart-goal-planner/static/js/main.173741b4.js",
+    "main.css": "/smart-goal-planner/static/css/main.e6c13ad2.css",
+    "main.js": "/smart-goal-planner/static/js/main.17df6c52.js",
     "index.html": "/smart-goal-planner/index.html",
-    "main.ec32c3ff.css.map": "/smart-goal-planner/static/css/main.ec32c3ff.css.map",
-    "main.173741b4.js.map": "/smart-goal-planner/static/js/main.173741b4.js.map"
+    "main.e6c13ad2.css.map": "/smart-goal-planner/static/css/main.e6c13ad2.css.map",
+    "main.17df6c52.js.map": "/smart-goal-planner/static/js/main.17df6c52.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec32c3ff.css",
-    "static/js/main.173741b4.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.17df6c52.js"
   ]
 }
